@@ -1,0 +1,23 @@
+body{
+    font-size: 25px;
+    background-image: url(https://adragonbr.files.wordpress.com/2018/02/scp1471hd.jpg);
+    border: 5px solid black;
+}
+#margem{
+    margin: 25px;
+    border: solid blue;    
+}
+td:hover{
+    color: white;
+    background-color: black;
+}
+td{
+    background-color: whitesmoke;
+}
+img{
+    display: inline-block;
+    box-shadow: 5px 5px 0 0 black;
+    max-width:100%;
+	height:auto;
+    border: 25px; 
+}
