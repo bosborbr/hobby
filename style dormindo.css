@@ -1,6 +1,5 @@
 body{
     font-size: 25px;
-    border: 5px solid black;
     background-color: brown;
 }
 #margem{
@@ -20,4 +19,7 @@ img{
     max-width:100%;
 	height:auto;
     border: 25px; 
+}
+table{
+    border: 5px solid black;
 }
